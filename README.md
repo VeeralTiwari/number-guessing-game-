@@ -1,0 +1,1 @@
+In this game the user inputs a number and is directed to go "lower" or "higher" than the current input until the user arrives at the "secret number". This is a basic project based on the DOM manipulation features of javascript. 
